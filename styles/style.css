@@ -38,7 +38,7 @@ a {
   width: 100%;
 }
 
-.menu ul li:first-of-type {
+.menu ul li:nth-of-type(even) {
   font-weight: bold;
 }
 
@@ -64,7 +64,7 @@ a {
 
 .traditions-presentation {
   position: relative;
-  background: url("https://wallpaperaccess.com/full/4255381.jpg");
+  background: url("https://www.expatica.com/app/uploads/sites/2/2015/06/30-facts-about-Spain-1920x1080.jpg");
   width: 100%;
   height: 100vh;
   background-size: cover;
@@ -87,7 +87,7 @@ a {
 
 .text h1,
 h2 {
-  background: -webkit-linear-gradient(rgb(170, 21, 27), rgb(241, 191, 0));
+  background: -webkit-linear-gradient(rgb(173, 35, 40), rgb(200, 165, 22));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   position: absolute;
